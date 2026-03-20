@@ -7,13 +7,14 @@
 
 ```tree
 network-analysis/
-|
+│
 ├── homeworks/
-|
+│   ├── Assignement01_GroupB.ipynb
+│   └── book_edges.csv
+│
 ├── project/
-|
+│
 ├── .gitignore
-|
 └── README.md
 
 ```
