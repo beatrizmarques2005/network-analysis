@@ -45,6 +45,7 @@ network-analysis/
 │   ├── figures/                        # Generated plots & visualizations
 │   ├── graphs/                         # Exported graph files
 │   ├── portugal_vs_lisbon_comparison.md # National vs. Lisbon comparison write-up
+│   ├── presentation.pdf                # Project Final Presentation
 │   └── project_description.pdf         # Project brief
 │
 ├── .gitignore
