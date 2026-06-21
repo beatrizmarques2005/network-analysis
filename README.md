@@ -1,14 +1,21 @@
 # Network Analysis Course
 
-**Group B**
-- Beatriz Marques 20231605
-- Maria Inês Santos 20231630
-- Luís Soeiro 20211536
-- Rodrigo Silva 20231602
+## 📋 Overview
 
-## Repository Structure
+This project analyzes **Portuguese public procurement** as a network, using official public contract data from 2023–2026. Public buyers (entities) and suppliers (companies) form a bipartite buyer→supplier network, which is analyzed to identify dominant companies, dominant public entities, market structure, and community organization.
 
-```
+The analysis is carried out at two levels:
+- **National level** (`02_network.ipynb`) — the full Portuguese public procurement market.
+- **Lisbon level** (`03_network_lisbon.ipynb`) — a focused look at the capital, with a side-by-side comparison in `portugal_vs_lisbon_comparison.md`.
+
+## 📚 Homeworks
+
+- **Homework 1** — Network analysis of a *Game of Thrones* book character co-occurrence network.
+- **Homework 2** — See `homeworks/homework2/Assignment02.ipynb`.
+
+## 📁 Repository Structure
+
+```tree
 network-analysis/
 │
 ├── homeworks/
@@ -52,15 +59,10 @@ network-analysis/
 └── README.md
 ```
 
-## Project Overview
+## 👥 Team
 
-This project analyzes **Portuguese public procurement** as a network, using official public contract data from 2023–2026. Public buyers (entities) and suppliers (companies) form a bipartite buyer→supplier network, which is analyzed to identify dominant companies, dominant public entities, market structure, and community organization.
-
-The analysis is carried out at two levels:
-- **National level** (`02_network.ipynb`) — the full Portuguese public procurement market.
-- **Lisbon level** (`03_network_lisbon.ipynb`) — a focused look at the capital, with a side-by-side comparison in `portugal_vs_lisbon_comparison.md`.
-
-## Homeworks
-
-- **Homework 1** — Network analysis of a *Game of Thrones* book character co-occurrence network.
-- **Homework 2** — See `homeworks/homework2/Assignment02.ipynb`.
+**Group B**
+- Beatriz Marques – 20231605
+- Maria Inês Santos – 20231630
+- Luís Soeiro – 20211536
+- Rodrigo Silva – 20231602
