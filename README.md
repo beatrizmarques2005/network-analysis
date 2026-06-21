@@ -1,4 +1,5 @@
 # Network Analysis Course
+### Network Analysis Class · Data Science Degree · NOVA IMS
 
 ## 📋 Overview
 
